@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/WebContent/WEB-INF/lib
+END
+postgresql-9.4-1201.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/postgresql-9.4-1201.jdbc4.jar
+END
+commons-beanutils-1.8.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/commons-beanutils-1.8.0.jar
+END
+struts-taglib-1.3.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/struts-taglib-1.3.10.jar
+END
+oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/oro-2.0.8.jar
+END
+commons-digester-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/commons-digester-1.8.jar
+END
+struts.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/WebContent/WEB-INF/lib/struts.jar
+END
+antlr-2.7.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/antlr-2.7.2.jar
+END
+sqljdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/WebContent/WEB-INF/lib/sqljdbc4.jar
+END
+struts-core-1.3.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/struts-core-1.3.10.jar
+END
+commons-chain-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/commons-chain-1.2.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/servlet-api.jar
+END
+commons-validator-1.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/commons-validator-1.3.1.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/WebContent/WEB-INF/lib/commons-logging-1.0.4.jar
+END

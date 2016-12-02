@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/8/trunk/src/Model
+END
+BookModelForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/src/Model/BookModelForm.java
+END
+Enums.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7/trunk/src/Model/Enums.java
+END
+DataProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/src/Model/DataProcess.java
+END
+SqlDataProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/src/Model/SqlDataProcess.java
+END
